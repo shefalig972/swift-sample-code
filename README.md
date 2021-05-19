@@ -1,6 +1,6 @@
 ## Swift Sample Code
 
-This is a sample code base written in Swift 
+This is a sample code base written in Swift 5
 
 ## Sample Code Description
 
